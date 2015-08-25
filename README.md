@@ -1,7 +1,7 @@
 Foxpro .mem File Parser for VBA
 ==============================
 
-If you need to parse .mem files in VBA applications, use this
+If you need to parse .mem files in VBA applications, use this.
 God, Foxpro is ancient, but sometimes, you need to support legacy software.
 UBS Sdn Bhd I'm looking at you.
 
