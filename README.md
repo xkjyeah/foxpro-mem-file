@@ -7,8 +7,9 @@ UBS Sdn Bhd I'm looking at you.
 
 This class only supports three data types: Character sequences, numeric (double-precision floating point) and dates.
 Apparently it is compatible with VFP9 (according to the link below).
-If you need to parse other data types and/or .MEM files from other versions of Foxpro, you have to extend the parser.
+If you need to parse other data types and/or .MEM files from other versions of Foxpro, you have to extend the parser / send me a copy of your .MEM file for analysis.
 Follow the link below to the code in another language.
+I did not want to implement the other data types because I wouldn't be able to test them.
 
 Example usage (compatible with MS Excel, MS Access VBA):
 
